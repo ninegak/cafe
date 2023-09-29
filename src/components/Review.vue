@@ -27,7 +27,7 @@
                     </div>
                   </div>
                   <div class="col-lg-2 text-center">
-                    <img src="testimonials-1.jpg" class="img-fluid testimonial-img" alt="">
+                    <img src="./publictestimonials-1.jpg" class="img-fluid testimonial-img" alt="">
                   </div>
                 </div>
               </div>
@@ -49,7 +49,7 @@
                     </div>
                   </div>
                   <div class="col-lg-2 text-center">
-                    <img src="testimonials-2.jpg" class="img-fluid testimonial-img" alt="">
+                    <img src="./publictestimonials-2.jpg" class="img-fluid testimonial-img" alt="">
                   </div>
                 </div>
               </div>
@@ -72,7 +72,7 @@
                     </div>
                   </div>
                   <div class="col-lg-2 text-center">
-                    <img src="testimonials-3.jpg" class="img-fluid testimonial-img" alt="">
+                    <img src="./publictestimonials-3.jpg" class="img-fluid testimonial-img" alt="">
                   </div>
                 </div>
               </div>
